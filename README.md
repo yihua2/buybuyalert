@@ -2,6 +2,14 @@
 
 Price tracking and alert app that monitors product prices across online retailers via web scraping, lets you create price/discount alerts, and sends email notifications when thresholds are met.
 
+## Screenshots
+
+### Dashboard
+![Dashboard](docs/dashboard.png)
+
+### Product Detail
+![Product Detail](docs/product-detail.png)
+
 ## Features
 
 - **Track any retailer** — Playwright headless browser with generic scraper (JSON-LD, meta tags, CSS selectors) works on most sites
